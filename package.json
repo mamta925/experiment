@@ -2,8 +2,9 @@
   "name": "experiment",
   "version": "1.0.0",
   "description": "this is learning react through experiment",
-  "main": "App.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build":"parcel build intex.html",
     "test": "jest"
   },
   "repository": {
