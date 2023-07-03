@@ -1,0 +1,22 @@
+{
+  "name": "experiment",
+  "version": "1.0.0",
+  "description": "this is learning react through experiment",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamta925/experiment.git"
+  },
+  "author": "Mamta Kumari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mamta925/experiment/issues"
+  },
+  "homepage": "https://github.com/mamta925/experiment#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
